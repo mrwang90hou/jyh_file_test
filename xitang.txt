@@ -1,0 +1,21 @@
+2020-09-15 14:54:21.132744+0800 村财Dev[2200:608399] params={
+  "module" : "querySignNo",
+  "action" : "socialSecurityService",
+  "paras" : {
+    "uid" : "dd4230b86e21d83f07c12d8f83e0e63f",
+    "token" : "1_TMDOE6TQ0r6E1w1I5jf69yZTz1P9RTph"
+  }
+}
+
+2020-09-15 14:54:21.133066+0800 村财Dev[2200:608399] RMIS_APP's URL = https://192.168.1.180:444/rmis/rmis/mobile/dispatcherAction!anonExecute.action
+2020-09-15 14:54:21.133156+0800 村财Dev[2200:608399] request.s_Msg_ID = 22
+2020-09-15 14:54:21.133233+0800 村财Dev[2200:608399] self.requestURL = https://192.168.1.180:444/rmis/rmis/mobile/dispatcherAction!anonExecute.action
+2020-09-15 14:54:21.133430+0800 村财Dev[2200:608399] request.requestContent.params = <7b0a2020 226d6f64 756c6522 203a2022 71756572 79536967 6e4e6f22 2c0a2020 22616374 696f6e22 203a2022 736f6369 616c5365 63757269 74795365 72766963 65222c0a 20202270 61726173 22203a20 7b0a2020 20202275 69642220 3a202264 64343233 30623836 65323164 38336630 37633132 64386638 33653065 36336622 2c0a2020 20202274 6f6b656e 22203a20 22315f54 4d444f45 36545130 72364531 77314935 6a663639 795a547a 31503952 54706822 0a20207d 0a7d>
+2020-09-15 14:54:21.442544+0800 村财Dev[2200:608399] 接口连接正常code is 200
+2020-09-15 14:54:21.442730+0800 村财Dev[2200:608399] 收到msgid:22
+class: <0x283a64e00 JsonHttpsRequest.m:(84) > method: -[JsonHttpsRequest runCallBack:] 
+接收到的数据输出
+打印json字符串:🙂🙂🙂🙂🙂🙂🙂🙂
+{"message":"成功","state":"success","result":{"fid":"dd4230b86e21d83f07c12d8f83e0e63f","signNo":"FFAC94765515E3F1B332EDBE1013DD61","busiSeq":"0dfcde9a60504e0b9f9ec54d55efaca9"},"code":200}
+2020-09-15 14:54:21.444316+0800 村财Dev[2200:608399] push
+2020-09-15 14:54:21.447946+0800 村财Dev[2200:608634] request 9 dealloc
